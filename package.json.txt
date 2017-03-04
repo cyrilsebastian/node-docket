@@ -1,0 +1,10 @@
+{
+  "name": "Docker web template",
+  "version": "1.0",
+  "description": "Nodejs Webserver",
+  "main": "index.js",
+  "author": "cyrilsebastian01@gmail.com",
+  "dependencies": {
+      "express": "^4.13.3"
+  }
+}
